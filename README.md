@@ -73,7 +73,7 @@ You can also take a look at the [examples](#55-examples) section below.
   **raises** \<none\>  
   **description**  
   Returns an *xml_struct* for user code.  
-  The *new_xml_element(\*)* and *new_xml_attribute(\*)* functions below are sister functions and are also explained [here](#5-3-user-facing-structures).  
+  The *new_xml_element(\*)* and *new_xml_attribute(\*)* functions below are sister functions and are also explained [here](#53-user-facing-structures).  
 
 - *userInstance*. **new_xml_element(** *name="",value="",attributes=[],children=[],is_comment=False,parent=None* **)**  
   **parameters**  
