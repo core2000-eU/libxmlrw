@@ -320,7 +320,8 @@ read_xml_struct = xml.read(path = "xml_test.xml")
         /samples                      -> sample files
         /src                          -> source code: main folder
             /P                        -> source code: python
-                /__init__.py          -> main source code file (currently the only file)
+                /libxmlrw             
+                    /__init__.py      -> main source code file (currently the only file)
         LICENSE                       -> LICENSE
         README.md                     -> README
         setup.py                      -> pip installer setup file
